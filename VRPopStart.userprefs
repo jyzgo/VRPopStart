@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Shooter.cs">
+    <Files>
+      <File FileName="Assets/Script/Common/MTExtension.cs" Line="36" Column="11" />
+      <File FileName="Assets/Script/LevelCtrl.cs" Line="22" Column="1" />
+      <File FileName="Assets/Script/Cube.cs" Line="8" Column="6" />
+      <File FileName="Assets/Script/Shooter.cs" Line="43" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../MIII-Client/MIII/Assets/Scripts/core/Engine.cs" line="1660" offsetX="326" offsetY="24885" expression="curElement" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
